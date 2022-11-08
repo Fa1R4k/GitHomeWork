@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello another branch!");
+        System.out.println("Hello master!");
     }
 }
